@@ -1,6 +1,6 @@
 # Covid19-UTFPR
 
-This project is the code used to generate the results presented in ##PENDING PAPER##.\n
+This project is the code used to generate the results presented in ##PENDING PAPER##.  
 Database used: https://github.com/ari-dasci/OD-covidgr
 
 ### preprocess_database.ipynb
